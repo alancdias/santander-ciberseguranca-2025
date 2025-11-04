@@ -1,0 +1,15 @@
+[Key.shift_r] Este ´e um exemplor t de texto de teste
+[Key.shift_r] Se tudo der certo, o   os dados digitados est~ao sendo gravados no arquivo key[Key.shift_r] _log.txt do jeito 	 [ESC]  [ESC]  [ESC] que eu estou digitando[Key.ctrl_l] [Key.ctrl_l]  [Key.ctrl_l] [Key.alt_l] kK [ESC] [Key.f4] [Key.ctrl_l] 
+[Key.ctrl_l] [Key.ctrl_l] [Key.ctrl_l] [Key.pause] [Key.pause] [Key.ctrl_l] [Key.f2] [Key.f2] mntes [ESC] teste de digitaç~ao
+ case keyboard.[Key.shift_r] Key.pause      .p[Key.down] [Key.down] 
+[Key.shift_r] :
+brek
+[Key.pause]   como faze  r coia sa errada                               estou pesquisando coisas suspeitas na internet. [Key.shift_r] Espero que ningu´em esteja espionando meu teclado
+pedro pascal altura
+conversor m   cm pol
+ ;
+;
+;
+;    
+;
+[Key.pause] 

@@ -1,0 +1,10 @@
+password
+123
+1234
+123456
+msfadmin
+user123
+admin123
+secret
+god
+mypassword
